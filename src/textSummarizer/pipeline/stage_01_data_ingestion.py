@@ -1,5 +1,4 @@
 from textSummarizer.config.configuration import ConfigurationManager
-from textSummarizer.entity import DataIngestionConfig
 from textSummarizer.logging import logger
 from textSummarizer.components.data_ingestion import DataIngestion
 
