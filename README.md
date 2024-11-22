@@ -88,7 +88,7 @@ Email: charitharaghavaraju@gmail.com
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 
+    - Save the URI: 891377211985.dkr.ecr.eu-north-1.amazonaws.com/text-s
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -126,4 +126,4 @@ Email: charitharaghavaraju@gmail.com
 
     AWS_ECR_LOGIN_URI = 
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = text-s
